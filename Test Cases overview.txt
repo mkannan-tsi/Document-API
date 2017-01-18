@@ -1,0 +1,5 @@
+Test Cases –
+1.	Create a workbook object and print details of the workbook. Continue on to display information of the datasource connections that are a part of the workbook.
+2.	Create a datasource object by reading from a file, and then view information pertaining to the fields present in the datasource. 
+3.	Modify the server name/ database for an embedded connection and a published connection, and note observation 1 and 2.
+4.	Create a datasource object and import the connections from a workbook and update the caption of the datasource. Try to save it and observe point 8.
